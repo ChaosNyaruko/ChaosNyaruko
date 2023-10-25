@@ -17,10 +17,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on P2P-CDN dispatching with Go
+- 🔭 I’m currently working on P2P-CDN scheduling with Go. 
 - 🌱 I’m currently learning Rust/Blockchain/Web3/...
 - 👯 I’m looking to collaborate on Go lib related work, although I haven't really contributed some useful stuff.
-- 🤔 I’m looking for help with good ways to learn ML/Rust/Web3..., and ENGLISH!
+- 🤔 I’m looking for help with good ways to learn ML/LLM/Rust/Web3..., and ENGLISH!
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: cabbageparadise@gmail.com
 <!-- - 😄 Pronouns: ... -->
