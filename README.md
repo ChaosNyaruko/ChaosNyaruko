@@ -22,6 +22,6 @@
 - 👯 I’m trying to maintain my personal tools written in Go, one of which is the [ondict](https://github.com/ChaosNyarkuo/ondict). PRs and issues are welcome!
 - 🤔 I’m looking for help with good ways to learn ML/LLM/Rust/Web3..., and ENGLISH!
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: cabbageparadise@gmail.com
+- 📫 How to reach me: cabbageparadise@gmail.com, and [my personal blog](https://blog.freecloud.dev)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm insterested in many things, but not so good at most of them. :(
