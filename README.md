@@ -17,11 +17,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on P2P-CDN scheduling with Go. 
+- 🔭 Trying to be a decent educational streamer. 
 - 🌱 I’m currently learning Rust/Blockchain/Web3/Generative AI..., and by now only gotten all superficial knowledge.
-- 👯 I’m trying to maintain my personal tools written in Go, one of which is the [ondict](https://github.com/ChaosNyarkuo/ondict). PRs and issues are welcome!
-- 🤔 I’m looking for help with good ways to learn ML/LLM/Rust/Web3..., and ENGLISH!
+- 👯 I’m trying to write my personal tools. Most of them are just designed for my own workflow(not suitable for everyone). You can use them accordingly.
+- 🤔 I'm a Chinglish speaker.
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: cabbageparadise@gmail.com, and [my personal blog](https://blog.freecloud.dev)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm insterested in many things, but not so good at most of them. :(
+- ⚡ Don't be kidnapped by others.
