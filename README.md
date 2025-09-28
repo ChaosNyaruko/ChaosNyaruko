@@ -24,4 +24,4 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: cabbageparadise@gmail.com, and [my personal blog](https://blog.freecloud.dev)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Don't be kidnapped by others.
+- ⚡ Insist on what you believe is right.
