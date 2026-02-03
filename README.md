@@ -1,4 +1,4 @@
-# Create things that make you happy. 
+# Create things that make yourself happy. 
 
 ### Hi there 👋
 <!-- test another
