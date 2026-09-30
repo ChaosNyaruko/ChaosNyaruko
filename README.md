@@ -1,4 +1,4 @@
-# Create things that make yourself happy. 
+# Create things that make yourself happy, not just about the result, but also, or RATHER the process
 
 ### Hi there 👋
 <!-- test another
