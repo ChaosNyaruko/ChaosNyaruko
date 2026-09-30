@@ -22,7 +22,6 @@
 - Trying to be a decent educational streamer, and coding for fun. 
 - I’m currently learning Rust/Blockchain/Web3/Generative AI/System programming/..., and by now only gotten all superficial knowledge.
 - I’m trying to write my personal tools. Most of them are just designed for my own workflow(not suitable for everyone). You can use them accordingly.
-- I'm a Chinglish speaker.
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: cabbageparadise@gmail.com, and [my personal blog](https://blog.freecloud.dev)
 <!-- - 😄 Pronouns: ... -->
